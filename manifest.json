@@ -1,0 +1,10 @@
+{
+  "id": "update-1755431311572",
+  "createdAt": "2025-08-17T11:46:02.444Z",
+  "runtimeVersion": "1.0.0",
+  "launchAsset": {
+    "url": "index.android.bundle",
+    "contentType": "application/javascript"
+  },
+  "assets": []
+}
